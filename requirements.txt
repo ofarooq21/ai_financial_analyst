@@ -1,0 +1,12 @@
+requests
+pandas
+python-dotenv
+langchain
+langchain-ollama
+langchain-faiss
+langchain-huggingface
+openai
+tiktoken
+faiss-cpu
+sentence-transformers
+yfinance
